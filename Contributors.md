@@ -1,6 +1,7 @@
 git # Contributors
 - [Pinintti Sunil](https://github.com/Pininttisunil)
 - [Vinicius]
+- [Alaqmar Electricwala](https://github.com/AlaqmarElectricwala)
 - [fatimah](https://github.com/grindstack)
 - [Ankit Kumar Yadav](https://github.com/AnkitKrYadav)
 - [David Anane](https://github.com/plaestore)
@@ -2038,3 +2039,4 @@ jack - first contribution practice
 - [Paramjit Singh](https://github.com/param20h)
 - [Darshil Vasoya](https://github.com/darshilvasoya)
 - [Paofan25](https://github.com/paofan25)
+- [Dheeraj](https://github.com/Dheeraj1333) 
